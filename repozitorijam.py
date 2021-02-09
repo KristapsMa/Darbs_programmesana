@@ -17,7 +17,7 @@ print(5**2)
 #7)Lukðs Lauris
 
 #8)Mâlkalns Kristaps
-
+print(8*2)
 #9)Ruòìis Kristaps
 
 #10)Segliòð Jçkabs
